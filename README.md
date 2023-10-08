@@ -2,8 +2,8 @@
 
 ## Užduoties formuluotė
 Parašykite programą, kuri nuskaito šiuos studentų duomenis: `firstName`, `lastName`,
-<i>n</i> atliktų namų darbų (homeworkGrades) rezultatus (10-balėje sistemoje), o taip pat egzamino (exam) rezultatą.
-Tuomet iš šių duomenų, suskaičiuoja galutinį balą (avg/med).
+<i>n</i> atliktų namų darbų (`homeworkGrades`) rezultatus (10-balėje sistemoje), o taip pat egzamino (exam) rezultatą.
+Tuomet iš šių duomenų, suskaičiuoja galutinį balą (`avg/med`).
 
 P.S. kintamūjų pavadinimai pakeisti į anglų kalbą, dėl visiems priimto standarto.
 
