@@ -8,6 +8,7 @@ n atliktų namų darbų (nd) rezultatus (10-balėje sistemoje), o taip pat egzam
 Tuomet iš šių duomenų, suskaičiuoja galutinį balą (galutinis):
 
 
+
 Užduoties vertinimo kriterijai
 Galutinai repozitorijoje turi būti paskelbti 6 releas'ai: v0.1, v0.2, v0.3 ir v1.0.
 Iki versijos (v0.3) svarbiausia, kad Jūsų programos atliktų tai, kas yra prašoma užduotyse. Jeigu yra prašomą kažką panaudoti, pvz. antraštės (header) failus, iššimtis (exceptions) ir pan. - vadinasi juos ir turite panaudoti Jūsų realizacijose. Tačiau tikrai nebus baudžiama už tai, jeigu Jūsų realizacijos nebus labai efektyvios ar "modernios" - tą mes mokysimės ir tobulėsime viso kurso (kaip ir tolesnio gyvenimo) metu - svarbu daryti savarankiškai, tačiau diskutuoti su kolegomis ir dėstytojais drąsiai!
